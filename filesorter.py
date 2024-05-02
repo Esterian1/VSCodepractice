@@ -21,6 +21,6 @@ def organize_files(folder_path):
             source_file = os.path.join(folder_path, filename)
             shutil.move(source_file, destination_folder)
 
-#Hi rice
+#Monk Fruit
 # Example usage:
 organize_files("C:/Users/YourName/Downloads")  # Replace with your target folder
